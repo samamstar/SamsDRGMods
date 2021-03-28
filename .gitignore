@@ -77,5 +77,18 @@ DerivedDataCache/*
 Cooked/*
 
 # Don't grab the stuff I ripped from the game (IP theft is a serious crime broh)
-Content/*
-!Content/_ModBPs/**
+Content/Art/**
+Content/Audio/**
+Content/Character/**
+Content/CharacterStructure/**
+Content/Collections/**
+Content/Critters/**
+Content/Developers/**
+Content/Enemies/**
+Content/GameElements/**
+Content/Landscape/**
+Content/LevelElements/**
+Content/Maps/**
+Content/PersonalFolders/**
+Content/UI/**
+Content/WeaponsNTools/**
