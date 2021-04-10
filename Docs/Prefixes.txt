@@ -3,8 +3,9 @@ Prefixes can be mixed and matched
 Example:
 DEB_WB_MainSettingsPage
 DEBug Widget Base MainSettingsPage
-DEB_WC_MainSettingsPage_StyleSettingsPage
-DEBug Widget Child MainSettingsPage StyleSettingsPage (This is because it's intended to be a child of MainSettingsPage)
+
+DEB_LOG_O_LogSave
+DEBug LOG Oject LogSave
 
 Mod names:
 
@@ -14,14 +15,23 @@ MAS - MAinSettings
 MAIN - The core mod that loads all others
 BASE - The base objects that the main loader uses
 
+Many mods have sub-prefixes, for elements that are related
+SamsDebug:
+	VAR - VariableDIsplay
+	LOG - LOG
+	SET - SETtings page
+	
+
 These single-letter prefixes are to show object type and usage
 O - Object
 A - Actor
 W - Widget (Specifically UI widgets
 T - Template (Intended for the template ui widgets like DRGCheckbox)
-B - Base object (or rather, a child of the main base objects)
+B - Base object
 E - Enum
 S - Struct
 C - Child (is intended to be/is a child of some other object)(Mostly used in widgets)
 D - Data (Something intended to hold mutable data)
 F - Function library
+I - Interface
+P - Parent (For objects that don't do much on their own other than be a parent type)
