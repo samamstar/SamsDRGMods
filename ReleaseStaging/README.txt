@@ -4,7 +4,7 @@ config.INI: contains several key/value pairs for the bats to access. no spaces i
 	UEPackerPath: the path towards UnealPak.exe inside the Unreal Engine folders
 	drgPath: the path for the Primary DRG folder (Deep Rock Galactic) ; now that I think about it this should really be drgDirectory, but oh well
 	cookedModsPath: where the Uproject sends the content file when cooking
-	rawModsPath: 
+	rawModsPath: where to find the Content folder before cooking.
 
 packageInput.bat %1 : creates a .pak file from what's placed into packagerInput. Packs to packagerOutput\new_P.pak
 	%1: put noPause here to stop the bat from pausing at the end

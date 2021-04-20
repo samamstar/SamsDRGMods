@@ -9,7 +9,7 @@ for /f "tokens=1,2 delims==" %%g in (config.ini) do (
 
 ::test that the modInfo exists, so that things don't break
 if "%1"=="" (
-	echo modInfo not found
+	echo please input a modInfo INI
 	echo 
 	pause
 	goto eof
