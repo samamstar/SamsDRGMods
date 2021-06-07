@@ -92,3 +92,8 @@ Content/Maps/**
 Content/PersonalFolders/**
 Content/UI/**
 Content/WeaponsNTools/**
+
+# So that I don't grab the junk files used in the packaging process
+ReleaseStaging/packagerInput/**
+ReleaseStaging/packagerOutput/**
+ReleaseStaging/Mods/**
