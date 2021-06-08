@@ -97,3 +97,8 @@ Content/WeaponsNTools/**
 ReleaseStaging/packagerInput/**
 ReleaseStaging/packagerOutput/**
 ReleaseStaging/Mods/**
+
+# Include my personal folder 
+!/Content/PersonalFolders/**/
+!/Content/PersonalFolders/Samamstar/**
+
