@@ -5,9 +5,12 @@
 	"Description": "",
 	"Modules": [
 		{
-			"Name": "SamsDRGMods",
+			"Name": "FSD",
 			"Type": "Runtime",
-			"LoadingPhase": "Default"
+			"LoadingPhase": "Default",
+			"AdditionalDependencies": [
+				"Engine"
+			]
 		}
 	],
 	"Plugins": [

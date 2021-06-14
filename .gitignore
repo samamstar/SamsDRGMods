@@ -74,7 +74,7 @@ Plugins/*/Intermediate/*
 DerivedDataCache/*
 
 # Don't grab the stuff I've compiled
-Cooked/*
+WindowsNoEditor/*
 
 # Don't grab the stuff I ripped from the game (IP theft is a serious crime broh)
 Content/Art/**
