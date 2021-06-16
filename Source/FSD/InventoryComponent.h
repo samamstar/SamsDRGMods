@@ -2,6 +2,8 @@
 
 #pragma once
 
+#include "Item.h"
+
 #include "CoreMinimal.h"
 #include "Components/ActorComponent.h"
 #include "InventoryComponent.generated.h"
@@ -24,5 +26,13 @@ public:
 	// Called every frame
 	virtual void TickComponent(float DeltaTime, ELevelTick TickType, FActorComponentTickFunction* ThisTickFunction) override;
 
-		
+	DECLARE_DYNAMIC_MULTICAST_DELEGATE(FOnItemEquipped);
+	UPROPERTY(BlueprintAssignable) FOnItemEquipped OnItemEquipped;
+
+	DECLARE_DYNAMIC_MULTICAST_DELEGATE(FOnItemUnequipped);
+	UPROPERTY(BlueprintAssignable) FOnItemUnequipped OnItemUnequipped;
+
+	UPROPERTY(BlueprintReadOnly) AActor* CarriedItem;
+	UPROPERTY(BlueprintReadOnly) AItem* EquippedItem;
+
 };
