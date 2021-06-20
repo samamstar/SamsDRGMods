@@ -4,10 +4,12 @@ config.INI: contains several key/value pairs for the bats to access. no spaces i
 Also, folders end with no \ the .bats expect that
 
 	UEPackerPath: the path towards UnealPak.exe inside the Unreal Engine folders
-	drgPath: the path for the Primary DRG folder (Deep Rock Galactic) ; now that I think about it this should really be drgDirectory, but oh well
-	cookedModsPath: where the Uproject sends the content file when cooking
+	drgPath: the path for the Primary DRG folder (Deep Rock Galactic\) ; now that I think about it this should really be drgDirectory, but oh well
+	cookedModsPath: where the Uproject sends the content file after cooking
 	rawModsPath: where to find the Content folder before cooking.
-	desiredModsFolder: Where to put all of the .pak files. Leave emptry to put straight into paks\
+	desiredModsFolder: Where to put all of the .pak files. Leave empty to put straight into Paks\
+
+DefaultConfig.INI: contains example variables for my personal build environment. Obviously yours will be different
 
 packageInput.bat %1 : creates a .pak file from what's placed into packagerInput. Packs to packagerOutput\new_P.pak
 	%1: put noPause here to stop the bat from pausing at the end
@@ -23,3 +25,5 @@ MakeModHook.bat %1 : creates and names a pak file to spawn Core and places it in
 	%1: put noPause here to stop the bat from pausing at the end
 	
 QuickTestAllMods.bat : Packages all the mods in SamsMods\ and moves them into the DRG paks folder. 
+
+PrepAllModsForRelease.bat : Packages all the mods and puts them in modPack.zip for easy installation on the user end. Includes a text file with install instructions

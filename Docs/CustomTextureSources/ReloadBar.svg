@@ -1,0 +1,302 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="1024"
+   height="128"
+   viewBox="0 0 270.93333 33.866667"
+   version="1.1"
+   id="svg844"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
+   sodipodi:docname="ReloadBar.svg"
+   inkscape:export-filename="D:\DRGmodding\UEprojects\SamsDRGMods\Content\_ModBPs\SamsMods\ReloadBar\Textures\REL_BarBorder.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96">
+  <defs
+     id="defs838">
+    <inkscape:path-effect
+       effect="fillet_chamfer"
+       id="path-effect1076"
+       is_visible="true"
+       lpeversion="1"
+       satellites_param="C,0,0,1,0,8,0,1 @ C,0,0,1,0,8,0,1 @ C,0,0,1,0,8,0,1 @ C,0,0,1,0,8,0,1"
+       unit="px"
+       method="auto"
+       mode="F"
+       radius="8"
+       chamfer_steps="1"
+       flexible="false"
+       use_knot_distance="true"
+       apply_no_radius="true"
+       apply_with_radius="true"
+       only_selected="false"
+       hide_knots="false" />
+    <inkscape:path-effect
+       effect="fillet_chamfer"
+       id="path-effect1072"
+       is_visible="true"
+       lpeversion="1"
+       satellites_param="C,0,0,1,0,8,0,1 @ C,0,0,1,0,8,0,1 @ C,0,0,1,0,8,0,1 @ C,0,0,1,0,8,0,1"
+       unit="px"
+       method="auto"
+       mode="F"
+       radius="8"
+       chamfer_steps="1"
+       flexible="false"
+       use_knot_distance="true"
+       apply_no_radius="true"
+       apply_with_radius="true"
+       only_selected="false"
+       hide_knots="false" />
+    <inkscape:path-effect
+       effect="fillet_chamfer"
+       id="path-effect1068"
+       is_visible="true"
+       lpeversion="1"
+       satellites_param="C,0,0,1,0,0,0,1 @ C,0,0,1,0,9,0,1 @ C,0,0,1,0,9,0,1 @ C,0,0,1,0,9,0,1"
+       unit="px"
+       method="auto"
+       mode="F"
+       radius="9"
+       chamfer_steps="1"
+       flexible="false"
+       use_knot_distance="true"
+       apply_no_radius="true"
+       apply_with_radius="true"
+       only_selected="false"
+       hide_knots="false" />
+    <inkscape:path-effect
+       effect="fillet_chamfer"
+       id="path-effect1017"
+       is_visible="true"
+       lpeversion="1"
+       satellites_param="C,0,0,1,0,10,0,1 @ C,0,0,1,0,10,0,1 @ C,0,0,1,0,10,0,1 @ C,0,0,1,0,10,0,1"
+       unit="px"
+       method="auto"
+       mode="F"
+       radius="10"
+       chamfer_steps="1"
+       flexible="false"
+       use_knot_distance="true"
+       apply_no_radius="true"
+       apply_with_radius="true"
+       only_selected="false"
+       hide_knots="false" />
+    <inkscape:path-effect
+       effect="fillet_chamfer"
+       id="path-effect963"
+       is_visible="true"
+       lpeversion="1"
+       satellites_param="C,0,0,1,0,10,0,1 @ C,0,0,1,0,10,0,1 @ C,0,0,1,0,10,0,1 @ C,0,0,1,0,10,0,1"
+       unit="px"
+       method="auto"
+       mode="F"
+       radius="10"
+       chamfer_steps="1"
+       flexible="false"
+       use_knot_distance="true"
+       apply_no_radius="true"
+       apply_with_radius="true"
+       only_selected="false"
+       hide_knots="false" />
+    <inkscape:path-effect
+       effect="fillet_chamfer"
+       id="path-effect958"
+       is_visible="true"
+       lpeversion="1"
+       satellites_param="C,0,0,1,0,10,0,1 @ C,0,0,1,0,10,0,1 @ C,0,0,1,0,10,0,1 @ C,0,0,1,0,10,0,1"
+       unit="px"
+       method="auto"
+       mode="F"
+       radius="10"
+       chamfer_steps="1"
+       flexible="false"
+       use_knot_distance="true"
+       apply_no_radius="true"
+       apply_with_radius="true"
+       only_selected="false"
+       hide_knots="false" />
+    <inkscape:path-effect
+       effect="fillet_chamfer"
+       id="path-effect943"
+       is_visible="true"
+       lpeversion="1"
+       satellites_param="C,0,0,1,0,10,0,1 @ C,0,0,1,0,10,0,1 @ C,0,0,1,0,10,0,1 @ C,0,0,1,0,10,0,1"
+       unit="px"
+       method="auto"
+       mode="C"
+       radius="10"
+       chamfer_steps="1"
+       flexible="false"
+       use_knot_distance="true"
+       apply_no_radius="true"
+       apply_with_radius="true"
+       only_selected="false"
+       hide_knots="false" />
+    <inkscape:path-effect
+       effect="fillet_chamfer"
+       id="path-effect962"
+       is_visible="true"
+       lpeversion="1"
+       satellites_param="C,1,0,1,0,0.1,0,1 @ C,1,0,1,0,0.1,0,1 @ C,1,0,1,0,0.1,0,1 @ C,1,0,1,0,0.1,0,1"
+       unit="px"
+       method="auto"
+       mode="F"
+       radius="10"
+       chamfer_steps="1"
+       flexible="true"
+       use_knot_distance="true"
+       apply_no_radius="true"
+       apply_with_radius="true"
+       only_selected="false"
+       hide_knots="false" />
+    <inkscape:path-effect
+       effect="fillet_chamfer"
+       id="path-effect837"
+       is_visible="true"
+       lpeversion="1"
+       satellites_param="C,0,0,1,0,20,0,1 @ C,0,0,1,0,20,0,1 @ C,0,0,1,0,20,0,1 @ C,0,0,1,0,20,0,1"
+       unit="px"
+       method="auto"
+       mode="F"
+       radius="20"
+       chamfer_steps="1"
+       flexible="false"
+       use_knot_distance="true"
+       apply_no_radius="true"
+       apply_with_radius="true"
+       only_selected="false"
+       hide_knots="false" />
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath871">
+      <g
+         inkscape:label="Clip"
+         id="use873">
+        <path
+           style="fill:none;stroke:#ffffff;stroke-width:13.2292;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke markers fill"
+           d="m 0,19.999999 v 27.733333 l 20,20 h 27.733332 l 20,-20 V 19.999999 l -20,-19.99999950000003 H 20 Z"
+           id="path953"
+           inkscape:label="Border" />
+        <path
+           style="fill:none;stroke:#ffffff;stroke-width:0;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke markers fill"
+           sodipodi:type="inkscape:offset"
+           inkscape:radius="0"
+           inkscape:original="M 20 0 L 0 20 L 0 47.732422 L 20 67.732422 L 47.732422 67.732422 L 67.732422 47.732422 L 67.732422 20 L 47.732422 0 L 20 0 z "
+           xlink:href="#path12"
+           id="path955"
+           inkscape:href="#path12"
+           d="M 20,0 0,20 v 27.732422 l 20,20 h 27.732422 l 20,-20 V 20 l -20,-20 z" />
+      </g>
+    </clipPath>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#646464"
+     bordercolor="#323232"
+     borderopacity="1"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.95605469"
+     inkscape:cx="604.52148"
+     inkscape:cy="28.26008"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer3"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     units="px"
+     inkscape:pagecheckerboard="true"
+     borderlayer="true"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     showguides="true"
+     inkscape:guide-bbox="true">
+    <sodipodi:guide
+       position="0,33.866667"
+       orientation="0,1024"
+       id="guide1058" />
+    <sodipodi:guide
+       position="270.93333,33.866667"
+       orientation="128,0"
+       id="guide1060" />
+    <sodipodi:guide
+       position="270.93333,0"
+       orientation="0,-1024"
+       id="guide1062" />
+    <sodipodi:guide
+       position="0,0"
+       orientation="-128,0"
+       id="guide1064" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata841">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+        <cc:license
+           rdf:resource="http://creativecommons.org/licenses/by/4.0/" />
+      </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/licenses/by/4.0/">
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Reproduction" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Distribution" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Notice" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Attribution" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Border"
+     inkscape:groupmode="layer"
+     id="layer1"
+     style="display:none;opacity:1">
+    <path
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:3.96875;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.978947;paint-order:stroke markers fill"
+       id="rect1070"
+       width="266.96457"
+       height="29.897917"
+       x="1.984375"
+       y="1.984375"
+       inkscape:path-effect="#path-effect1072"
+       d="M 9.984375,1.984375 H 260.94894 l 8,8 v 13.897917 l -8,8 H 9.984375 l -8,-8 V 9.984375 Z"
+       sodipodi:type="rect"
+       inkscape:label="Border"
+       inkscape:export-filename="D:\DRGmodding\UEprojects\SamsDRGMods\Content\_ModBPs\SamsMods\ReloadBar\Textures\REL_BarBorder.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+  </g>
+  <g
+     id="layer3"
+     inkscape:label="Bar"
+     style="display:inline"
+     inkscape:export-filename="D:\DRGmodding\UEprojects\SamsDRGMods\Content\_ModBPs\SamsMods\ReloadBar\Textures\REL_BarFill.png"
+     inkscape:export-xdpi="96"
+     inkscape:export-ydpi="96">
+    <path
+       id="path1074"
+       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:3.96875;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.978947;paint-order:stroke markers fill"
+       d="M 12.587891,8.3886719 C 11.163103,9.81414 9.7356173,11.236944 8.3125,12.664062 c 0,2.846355 0,5.692709 0,8.539063 1.4488736,1.452139 2.899427,2.902685 4.351562,4.351563 81.86849,-10e-7 163.736978,0 245.605468,0 1.45214,-1.448874 2.90269,-2.899428 4.35156,-4.351563 0,-2.846354 0,-5.692708 0,-8.539063 -1.44887,-1.452138 -2.89942,-2.9026849 -4.35156,-4.351562 -81.86784,0 -163.735676,0 -245.603514,0 l -0.0716,0.06981 z"
+       inkscape:export-filename="D:\DRGmodding\UEprojects\SamsDRGMods\Content\_ModBPs\SamsMods\ReloadBar\Textures\REL_BarFill.png"
+       inkscape:export-xdpi="96.000008"
+       inkscape:export-ydpi="96.000008" />
+  </g>
+</svg>

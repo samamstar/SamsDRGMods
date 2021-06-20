@@ -79,5 +79,9 @@ WindowsNoEditor/*
 # So that I don't grab the junk files used in the packaging process
 ReleaseStaging/packagerInput/**
 ReleaseStaging/packagerOutput/**
-ReleaseStaging/Mods/**
+ReleaseStaging/Paks/**
+ReleaseStaging/modPack/**
+ReleaseStaging/modPack.zip
 
+# And don't grab the config
+ReleaseStaging/config.ini

@@ -1,0 +1,4 @@
+1. Unzip this folder
+2. Locate your steam install (Right click in library -> Manage -> Browse local files
+3. Merge the Paks folder with the version inside your steam install (...\Deep Rock Galactic\FSD\Content\Paks)
+4. Profit!

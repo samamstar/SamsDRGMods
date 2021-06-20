@@ -20,6 +20,7 @@ SamsDebug:
 	VAR - VariableDIsplay
 	LOG - LOG
 	SET - SETtings page
+	REL - RELoad bar
 	
 
 These single-letter prefixes are to show object type and usage
@@ -32,6 +33,7 @@ E - Enum
 S - Struct
 C - Child (is intended to be/is a child of some other object)(Mostly used in widgets)
 D - Data (Something intended to hold mutable data)
+DT- Data table (yeah it's not one letter shutup)
 F - Function library
 I - Interface
 P - Parent (For objects that don't do much on their own other than be a parent type)

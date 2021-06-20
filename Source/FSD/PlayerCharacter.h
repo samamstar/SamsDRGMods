@@ -33,6 +33,7 @@ public:
 
 	UPROPERTY(BlueprintReadOnly) float EquipLaserpointerHoldDuration;
 	UPROPERTY(BlueprintReadOnly) UInventoryComponent* InventoryComponent;
-	
 
 };
+
+

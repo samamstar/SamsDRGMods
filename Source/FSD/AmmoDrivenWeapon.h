@@ -11,6 +11,18 @@
 /**
  * 
  */
+
+UENUM(BlueprintType)
+enum class EAmmoWeaponState : uint8
+{
+	Equipping UMETA(DisplayName = "Equipping"),
+	Ready UMETA(DisplayName = "Ready"),
+	Cycling UMETA(DisplayName = "Cycling"),
+	Reloading UMETA(DisplayName = "Reloading"),
+	BurstCycling UMETA(DisplayName = "BurstCycling"),
+};
+
+
 UCLASS()
 class FSD_API AAmmoDrivenWeapon : public AAnimatedItem
 {
@@ -22,6 +34,7 @@ public:
 	UPROPERTY(BlueprintReadOnly) float ReloadDuration;
 	UPROPERTY(BlueprintReadOnly) bool CanReload;
 	UPROPERTY(BlueprintReadOnly) UAmmoDrivenWeaponAggregator* Aggregator;
+	UPROPERTY(BlueprintReadOnly) EAmmoWeaponState WeaponState;
 	
 	
 };
