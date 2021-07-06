@@ -15,3 +15,10 @@ class FSD_API AAnimatedItem : public AItem
 	GENERATED_BODY()
 	
 };
+
+UCLASS()
+class FSD_API ARecallableItem : public AAnimatedItem
+{
+	GENERATED_BODY()
+
+};

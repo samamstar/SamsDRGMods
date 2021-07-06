@@ -14,13 +14,14 @@ MES - samsMESsageui
 MAS - MAinSettings
 MAIN - The core mod that loads all others
 BASE - The base objects that the main loader uses
+REL - RELoad bar
+BIN - custom BINdings
 
 Many mods have sub-prefixes, for elements that are related
 SamsDebug:
 	VAR - VariableDIsplay
 	LOG - LOG
 	SET - SETtings page
-	REL - RELoad bar
 	
 
 These single-letter prefixes are to show object type and usage
