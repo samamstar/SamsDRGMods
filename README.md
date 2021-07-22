@@ -1,3 +1,6 @@
+# This repo is outdated! I got sick of having all my projects in the same Unreal project, so I made the [SamsDRGMods](https://github.com/SamsDRGMods) organization to help keep me sane
+
+
 ### Welcome to the SamsDRGMods repository!
 ## What is it?
 I wanted to have one central space to put a bunch of related mods. Hence this repo. It includes everything I'm currently working on, most of which is tied directly into my main project, a shared settings window between all of my mods
